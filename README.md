@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&width=700&height=45&lines=Software+Developer+%7C+AI+%26+Data+Science+Undergraduate;Building+DevPilot+AI+-+Autonomous+Desktop+Agent;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+React+%C2%B7+Node.js;Solved+100%2B+DSA+Problems+on+LeetCode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&width=700&height=45&lines=Software+Developer+%7C+AI+%26+Data+Science+Undergraduate;Building+DevPilot+AI+-+Autonomous+Desktop+Agent;Python+%C2%B7+Java+%C2%B7+SQL+%C2%B7+React+%C2%B7+Spring+Boot;Solved+100%2B+DSA+Problems+on+LeetCode" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ I'm currently strengthening my expertise in AI & LLM integration, Data Science, 
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=...,spring,..."/>
 </p>
 
 ### Databases
@@ -70,7 +70,7 @@ I'm currently strengthening my expertise in AI & LLM integration, Data Science, 
 
 ### Developer Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Jupyter_Notebook-00FF9C?style=for-the-badge&logo=jupyter&logoColor=0D1117" />
