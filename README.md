@@ -81,32 +81,26 @@ I'm currently strengthening my expertise in AI & LLM integration, Data Science, 
 
 <h2>Projects</h2>
 
-### DevPilot AI — Autonomous Desktop AI Agent
-Developed an autonomous desktop AI agent that converts natural language goals into dynamic JSON execution plans for software installation and desktop automation. Designed a modular system architecture with distinct AI Engine, System Inspector, Workflow Engine, Tool Manager, Verifier, Recovery, and Reporting modules, backed by a provider-based LLM architecture built to scale across multiple LLM backends.
-
-**Tech Stack:** Python · Streamlit · LLM Integration
+### DocuQ — RAG-Based Document AI Assistant
+Built an end-to-end document question-answering application using document chunking, embeddings, ChromaDB vector search, and LLM-based answer generation with the Gemini API[cite: 1]. Implemented semantic retrieval with source and page citations, conversational follow-up questions, and fallback handling to improve answer grounding and traceability[cite: 1]. Developed a modular FastAPI and Streamlit application with error handling and evaluation, containerized it with Docker, and deployed a live demo.
+**Tech Stack:** Python · FastAPI · LangChain · ChromaDB · Docker · Google Gemini API
+🔗 [Live Demo](https://bsxd7gye8kjhctbccmpnfz.streamlit.app/) · [Repository](https://github.com/sainandam/DocuQ)
 
 ---
+
+### Smart AI Rental System for Agricultural Machinery(AGRI CONNECT)
+Designed an AI-assisted rental management platform for agricultural machinery, with workflows for machinery booking and resource management, and SQL-based database operations for booking, scheduling, and resource management.
+
+** Tech Stack: ** TypeScript · React · Node.js
+🔗 [Live Demo](https://agri-connect-steel-delta.vercel.app) · [Repository](https://github.com/sainandam/AgriConnect)
+
+---
+
 
 ### Windows System Inspector
 Developed a Python-based Windows system inspection library to analyze hardware, operating system, installed software, and runtime environment. Built reusable modules for CPU, memory, storage, network, and software inspection, generating structured system reports to support intelligent workflow planning in DevPilot AI.
 
 **Tech Stack:** Python
-
----
-
-### Smart AI Rental System for Agricultural Machinery
-Designed an AI-assisted rental management platform for agricultural machinery, with workflows for machinery booking and resource management, and SQL-based database operations for booking, scheduling, and resource management.
-
-**Tech Stack:** Python · SQL
-
----
-
-### AgriConnect — Live Agritech Platform
-A platform connecting agricultural services and users, deployed live in production.
-
-**Tech Stack:** TypeScript · React · Node.js
-🔗 [Live Demo](https://agri-connect-steel-delta.vercel.app) · [Repository](https://github.com/sainandam/AgriConnect)
 
 ---
 
