@@ -1,3 +1,4 @@
+![Sai Kiran Nandam Banner](watermarked_img_1879578355042032755.png)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=Sai%20Kiran%20Nandam&fontSize=42&fontColor=00FF9C&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Science%20Undergraduate&descSize=17&descColor=E6EDF3&descAlignY=58&animation=fadeIn" width="100%" alt="Sai Kiran Nandam Banner" />
 </p>
