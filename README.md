@@ -31,12 +31,12 @@ I'm currently strengthening my expertise in AI & LLM integration, Data Science, 
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Backend Development
