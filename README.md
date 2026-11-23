@@ -1,4 +1,4 @@
-![Sai Kiran Nandam Banner](./assets/banny.jpeg)
+![Sai Kiran Nandam Banner](./assets/banny-green.jpeg)
 <p align="center">
 </p>
 
